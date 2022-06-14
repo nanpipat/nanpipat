@@ -19,20 +19,41 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>React</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Angular</center></b></span> 
-<img height=60px src="https://angular.io/assets/images/logos/angular/angular.svg"> 
+<span><b><center>Go</center></b></span> 
+<img height=60px src="https://miro.medium.com/max/1200/1*i2skbfmDsHayHhqPfwt6pA.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>NodeJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
 </td>
+
+<td align="center" width="20%">
+<span><b><center>.NET / C# </center></b></span> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"> 
+</td>
 </tr>
+  
+  
+  <tr>
+<td align="center" width="20%">
+<span><b><center>NextJs</center></b></span> 
+<img height=60px src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>React</center></b></span> 
+<img height=60px src="https://pronto-core-cdn.prontomarketing.com/2/wp-content/uploads/sites/2826/2018/12/1_6kK9j74vyOmXYm1gN6ARhQ.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Angular</center></b></span> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"> 
+</td>
+</tr>
+  
+  
+  
 
 <tr>
 <td align="center" width="20%">
