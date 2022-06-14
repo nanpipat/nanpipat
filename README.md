@@ -57,8 +57,8 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Material Ui</center></b></span> 
-<img height=65px src="https://opencollective-production.s3.us-west-1.amazonaws.com/ada636e0-395b-11ea-8ab7-b3f0317bbc7c.png"> 
+<span><b><center>AWS</center></b></span> 
+<img height=65px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZNfSRYeTuH5uMUl_40fo_qYlmTlqppVlPkoiyoLhmm2jC0lXwP3Mz-aHJXL2V_N0BW8&usqp=CAU"> 
 </td>
 
 <td align="center" width="20%">
@@ -67,8 +67,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>C#</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"> 
+<span><b><center>GCP</center></b></span> 
+<img height=65px src="https://www.smartenergydecisions.com/upload/images/company_images/google_cloud.jpg"> 
 </td>
 </tr>
 
